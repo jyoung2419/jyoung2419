@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/jyoung2419/jyoung2419/blob/main/githublogo.gif"/>
-</div>
+</div> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jyoung2419&show_icons=true&theme=radical"/> -->
 
