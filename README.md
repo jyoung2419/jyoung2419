@@ -1,4 +1,4 @@
-### JINYOUNG's Github Profile 👋
+## 👋 JINYOUNG's Github Profile
 
 🧩 데이터 구조와 설계 단계부터 정합성을 고민하는 개발자입니다.<br/>
 ⚡️ 실 서비스의 병목을 시스템 전체 흐름에서 진단하고 개선합니다.<br/>
