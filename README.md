@@ -11,14 +11,7 @@
   </a>
 </p>
 
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-<div style="text-align: left;"> 
-    📧 jjyoung2419@gmail.com
-</div>  
-</div> <br> 
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧱 Tech Stack </h2>
+### 🧱 Tech Stack
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp; 
@@ -29,8 +22,17 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+ <br> 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 블로그 </h2>
+
+### 📄 블로그
 <a href="https://homuri.tistory.com">
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 </a></br>
+
+
+### 🧑‍💻 Contact me 
+<div style="text-align: left;"> 
+    📧 jjyoung2419@gmail.com
+</div>  
+
